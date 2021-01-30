@@ -1,0 +1,93 @@
+{
+    "tweets": [
+        {
+            "id": "1",
+            "avatar": "https://picsum.photos/id/1003/100",
+            "username": "dulquer salmaan",
+            "nickname": "dulQuer",
+            "comment": "Hearing extremely positive reviews for my brother @iamVikramPrabhu's #SigaramThodu!! Back to back hits Vik :) :) so so happy for you!!"
+        },
+        {
+          "id": "2",
+          "avatar": "https://picsum.photos/id/1/100",
+          "username": "Mammootty",
+          "nickname": "mammukka",
+          "comment": "RajadhiRaja\n Design: fb.com/artistasabareesh"
+        },
+        {
+          "id": "3",
+          "avatar": "https://picsum.photos/id/1001/100",
+          "username": "Aashiq Abu",
+          "nickname": "talkaashiq",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "id": "4",
+          "avatar": "https://picsum.photos/id/1005/100",
+          "username": "J",
+          "nickname": "jiteshpillaai",
+          "comment": "No one starts off wanting to make a bad film ya. But few honestly stick to their visions. There are just too many forces at play"
+        },
+        {
+          "id": "5",
+          "avatar": "https://picsum.photos/id/1010/100",
+          "username": "HostOnNet.com",
+          "nickname": "hostonnet",
+          "comment": "How to install pip on linux ggo.gl/fb/vxt1dh"
+        },
+        {
+          "id": "6",
+          "avatar": "https://picsum.photos/id/1011/100",
+          "username": "Shubha",
+          "nickname": "ShubaOfficial",
+          "comment": "7.5 Lakh views..Lets make it 1 million. #YAAN team\n pic.twitter.com/ltpU8n2GGZ\n @Actorjiiva @ThulasiN"
+        }
+    ],
+    "currentUser": {
+      "id": "sfsd",
+      "avatar": "https://picsum.photos/id/1025/100",
+      "username": "Sherly",
+      "nickname": "sherlymolk2000",
+      "tweets": "9",
+      "following": "12",
+      "followers": "2"
+    },
+    "trends": [
+      {
+        "id": "1",
+        "trend": "#MamwaLaage"
+      },
+      {
+        "id": "2",
+        "trend": "#MyntraTreasureHunt"
+      },
+      {
+        "id": "3",
+        "trend": "#SalmanTheEmperorOfBollywood"
+      },
+      {
+        "id": "4",
+        "trend": "#PRAXIS2014"
+      },
+      {
+        "id": "5",
+        "trend": "BramhaRakshas"
+      },
+      {
+        "id": "6",
+        "trend": "Gini and Jony"
+      },
+      {
+        "id": "7",
+        "trend": "Vinod Rai"
+      },
+      {
+        "id": "8",
+        "trend": "Apple Watch"
+      },
+      {
+        "id": "9",
+        "trend": "Glendale Forest Hotel"
+      }                  
+  ]
+}

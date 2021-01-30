@@ -1,0 +1,19 @@
+.Navbar{
+    background: #fff;
+    margin-bottom: 20px;
+}
+
+.Navbar li a {
+    color: #000;
+}
+
+.Navbar div a {
+    color: #000;
+}
+
+.brand-logo{
+    height: 40px;
+    width: 50px;
+    margin-top: 5px;
+}
+

@@ -12,7 +12,7 @@ import Me from "./pages/Me"
 function App(){
     return (
         <BrowserRouter>
-            <Layout>
+            <Layout >
             <Switch>
                 <Route exact path="/" component={Home}/>          
                 <Route exact path="/notifications" component={Notifications}/>

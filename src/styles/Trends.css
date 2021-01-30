@@ -1,0 +1,38 @@
+.trends-container{
+    width: 300px;
+    height: 350px;
+    background: #fff;
+    border-radius: 6px;    
+    box-shadow: 0px 1px 10px 1px #000;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.trends-upper-container{
+    height: 60px;
+    background: #fff;
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.trends-upper-container h6{
+    margin-top: 35px;
+    margin-left: 15px;
+    color: #69a8e4;
+}
+
+.trends-upper-container  h4{    
+    margin-left: 10px;    
+}
+
+.trends-lower-container{
+    height: 280px;
+    background: #fff;
+    padding: 10px;
+    font-size: 16px;    
+}
+
+.trends-lower-container li{
+    color: #69a8e4;
+}
+
